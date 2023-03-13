@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+
+}
+
+figure {
+ text-align: center;
+}
+
+nav {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+nav a {
+  background-color: aqua;
+}
+
+p{
+  text-align: center;
+}
+
+div {
+  float: left;
+  background-color: red;
+  text-align: centre;
+  width: 25%;
+
+}
